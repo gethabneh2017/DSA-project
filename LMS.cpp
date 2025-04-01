@@ -1,7 +1,5 @@
 
-//bellow this is basha code
-//basha contribute 
-// Library Member as a linked list node
+//this is bashas
 class Member {
 public:
     int id;
